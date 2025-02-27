@@ -1,7 +1,7 @@
 
 🚀 Stock Analysis with LLM & Yahoo Finance API
 
-A Python-based stock analysis tool that integrates Local LLM (Large Language Model) and Yahoo Finance API to extract insights, trends, and news for a given stock.
+A Python-based stock analysis tool that integrates AutoGen Local LLM (TinyLLaMA) and Yahoo Finance API to extract insights, trends, and news for a given stock.
 
 
 📌 Features
