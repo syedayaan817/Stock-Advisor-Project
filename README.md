@@ -33,8 +33,6 @@ pip install -r requirements.txt
 
 3️⃣ Run the Streamlit App
 before you do this, run the llm_utils.py script 
-python llm_utils.py
-then
 streamlit run main.py
 
 
