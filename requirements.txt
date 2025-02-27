@@ -1,0 +1,28 @@
+# Core Python Libraries
+numpy==1.24.3
+pandas==1.5.3
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Web Scraping & Finance APIs
+yfinance==0.2.31
+yahooquery==2.3.1
+
+# Machine Learning & NLP
+scikit-learn==1.2.2
+spacy==3.5.2
+transformers==4.37.2
+torch==2.0.1
+tensorflow==2.14.0
+
+# Web Framework
+streamlit==1.29.0
+
+# Autogen & LLM Interaction
+autogen==0.2.1
+sentencepiece==0.1.99
+bitsandbytes==0.41.1
+
+# Other Utilities
+requests==2.31.0
+json5==0.9.6
